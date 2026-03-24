@@ -77,7 +77,7 @@ Stage 2 → 5 inputs
 
 1. Clone this repo
    ```bash
-   git clone https://github.com/yourusername/simon-says-arduino.git
+   git clone https://github.com/yourusername/arduino-simon-says-game.git
    ```
 2. Open `simon_says.ino` in the **Arduino IDE**
 3. Wire components according to the pin map above
@@ -89,7 +89,7 @@ Stage 2 → 5 inputs
 ## 📁 Project Structure
 
 ```
-simon-says-arduino/
+arduino-simon-says-game/
 ├── simon_says.ino     # Main game code
 └── README.md
 ```
@@ -103,5 +103,3 @@ simon-says-arduino/
 - Pure hardware — no shields, no modules, no libraries
 
 ---
-
-*Made with ☕ and too many jumper wires.*
