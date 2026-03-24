@@ -79,7 +79,7 @@ Stage 2 → 5 inputs
    ```bash
    git clone https://github.com/yourusername/arduino-simon-says-game.git
    ```
-2. Open `simon_says.ino` in the **Arduino IDE**
+2. Open `SimonSays.ino` in the **Arduino IDE**
 3. Wire components according to the pin map above
 4. Upload to your **Arduino Uno R3**
 5. Hit the reset button and play
@@ -90,7 +90,7 @@ Stage 2 → 5 inputs
 
 ```
 arduino-simon-says-game/
-├── simon_says.ino     # Main game code
+├── SimonSays.ino     # Main game code
 └── README.md
 ```
 
